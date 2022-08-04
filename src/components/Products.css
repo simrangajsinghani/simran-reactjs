@@ -1,0 +1,22 @@
+.gridStyles
+{
+    width: 100%;
+
+}
+.buttonIcon {
+    background-color: black; /* Green */
+    border-radius: 30px;
+    color: grey;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 14px 7px;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    bottom: 15px;
+    right: 20px;
+
+  }
